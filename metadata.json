@@ -1,0 +1,6 @@
+{
+  "name": "Startup Accounting Management System",
+  "description": "Professional, secure, and scalable double-entry accounting management system for startups featuring Chart of Accounts, Invoicing, Vendor Bills, Journal Engine, General Ledger, and Financial Reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
